@@ -11,4 +11,5 @@ def authentication():
         return False
 
 
-# authentication()
+if __name__ == "__main__":
+    authentication()
